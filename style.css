@@ -1,0 +1,215 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: Sriracha;
+
+}
+
+html
+{
+	scroll-behavior: smooth;
+}
+
+
+.lo 
+{
+	color: rgb(18,245,229);
+	font-size: 25px;
+	float: center;
+	
+
+}
+ h1{
+	float: center;
+	font-size: 50px;
+	color: white;
+}
+header{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../marvel.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center ;
+	overflow: hidden;
+}
+ul
+{
+    position: fixed;
+    right: 0%;
+    font-size: 25px;
+	list-style-type: none;
+	margin-bottom: 500px;
+	
+
+	
+}
+ ul li
+ {
+ 	display: inline-block;
+ }
+ ul li a
+ {
+ 	text-decoration: none;
+ 	color: #000;
+ 	padding: 2px 10px;
+ 	border: 1px  solid rgb(247,249,249) ;
+ 	transition:  0.6s ease;
+
+ }
+ ul li a :hover{
+ 	background-color: rgb(151,154,154);
+ 	color:#000;
+ }
+ ul li.active
+ {
+ 	background-color: #fff;
+ 	color:#000;
+ 
+
+ }
+ 
+ .main
+ {
+ 	max-width: 1300px;
+ 	margin: auto;
+ 
+
+
+ }
+ .main1
+ {
+ 	color: #fff;
+    
+ 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../3.jpg);
+ 	background-position:center;
+ 	background-size: cover;
+ 	height: 100vh;
+ 
+ }
+  img
+ {
+
+ 	float: right;
+ 	border: solid rgb(18,236,245);
+
+ 	margin-top: 100px;
+ 	margin-right:  500px;
+ }
+.s1
+{
+    font-size: 25px;
+	float: left;
+	margin-left: 50px; 	
+	font-family: Crimson Text;
+	
+}
+.main2
+ {
+ 	color: #fff;
+    
+ 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../1.jpg);
+ 	background-position:center;
+ 	background-size: cover;
+ 	height: 100vh;
+ 
+ }
+
+ img1
+ {
+
+ 	float: right;
+ 	border: solid rgb(18,236,245);
+
+ 	margin-top: 100px;
+ 	margin-right:  500px;
+ }
+ .s2
+{
+    font-size: 25px;
+	float: left;
+	margin-left: 50px; 	
+	font-family: Crimson Text;
+}
+.main3
+ {
+ 	color: #fff;
+    
+ 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../5.jpg);
+ 	background-position:center;
+ 	background-size: cover;
+ 	height: 100vh;
+ 
+ }
+
+ img2
+ {
+
+ 	float: right;
+ 	border: solid rgb(18,236,245);
+
+ 	margin-top: 100px;
+ 	margin-right:  500px;
+ }
+ .s3
+{
+    font-size: 25px;
+	float: left;
+	margin-left: 50px; 	
+	font-family: Crimson Text;
+}
+.main4
+ {
+ 	color: #fff;
+    
+ 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../6.jpg);
+ 	background-position:center;
+ 	background-size: cover;
+ 	height: 100vh;
+ 
+ }
+
+ img3
+ {
+
+ 	float: right;
+ 	border: solid rgb(18,236,245);
+
+ 	margin-top: 100px;
+ 	margin-right:  500px;
+ }
+ .s4
+{
+    font-size: 25px;
+	float: left;
+	margin-left: 50px; 	
+	font-family: Crimson Text;
+}
+.main5
+ {
+ 	color: #fff;
+    
+ 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../4.jpg);
+ 	background-position:center;
+ 	background-size: cover;
+ 	height: 100vh;
+ 
+ }
+
+ img5
+ {
+
+ 	float: right;
+ 	border: solid rgb(245,96,18);
+
+ 	margin-top: 100px;
+ 	margin-right:  500px;
+ }
+ .s5
+{
+    color: #fff;
+    font-size: 25px;
+	float: left;
+	margin-left: 50px; 	
+	font-family: Crimson Text;
+}
+
+	
