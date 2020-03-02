@@ -11,9 +11,9 @@ html
 }
 .main p
 {
-	font-family: Sriracha;
-	font-size:20px;
-	color: skyblue;
+  color: #fff;
+  font-size: 20px;
+  color: skyblue;
 }
 
 .lo 
