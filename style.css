@@ -9,7 +9,11 @@ html
 {
 	scroll-behavior: smooth;
 }
-
+main .p
+{
+	font-family: Sriracha;
+	font-size:20px;
+}
 
 .lo 
 {
@@ -19,6 +23,7 @@ html
 	
 
 }
+
  h1{
 	float: center;
 	font-size: 50px;
