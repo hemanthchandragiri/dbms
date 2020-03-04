@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family:  Sriracha;
+}
+header
+{
+	background-image: url(../marvel.jpg);
+	background-size: cover;
+	height: 100vh;
+
+}
+.paragraph p
+{
+	color: skyblue;
+}
