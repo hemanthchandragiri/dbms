@@ -13,4 +13,7 @@ header
 .paragraph p
 {
 	color: skyblue;
+	font-size: 30px;
+	float: right;
+	margin-top: 300px;
 }
